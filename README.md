@@ -1,5 +1,7 @@
 # README
 
+This is an application that allows users to view and save their favorite locations on google maps
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
